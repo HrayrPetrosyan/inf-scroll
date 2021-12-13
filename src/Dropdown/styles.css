@@ -1,0 +1,15 @@
+.dropdown-container {
+	background-color: 	rgb(0, 0, 0);
+	width: 400px;
+	padding: 50px;
+}
+
+.dropdown {
+	position: relative;
+}
+
+input {
+	width: 100%;
+	border: 0;
+	padding: 0;
+}

@@ -1,0 +1,13 @@
+.dropdown-list {
+	background-color: white;
+	font-size: 1rem;
+	color: black;
+	max-height: 200px;
+	overflow-y: scroll;
+	position: absolute;
+	width: 100%;
+}
+
+.dropdown-list-item {
+	padding: 4px 0;
+}
