@@ -1,5 +1,4 @@
 import { useState, useEffect, useRef } from 'react';
-import Input from './Input';
 import DropdownList from './DropdownList';
 import './styles.css';
 
